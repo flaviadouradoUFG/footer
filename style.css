@@ -1,0 +1,67 @@
+h2 {
+    color: chartreuse;
+}
+
+footer{
+    position: absolute;
+    width: 100%;
+    height: 340px;
+    left: 0px;
+    bottom: 0px;
+    background: #FFF;
+    clear: both;
+}
+
+.logos-footer{
+    margin: 80px 0px 204px 262px;
+    position: absolute;
+}
+
+.navegacao{
+    margin: 81px 408px 70px 926px;
+    right: 0px;
+    position: absolute;
+}
+
+ul{
+    list-style-type: none;
+    text-decoration: none;
+    padding: 0px;
+}
+
+li{
+    text-align: left;
+}
+
+.font-footer{
+    font-family: 'Titillium Web', SansSerif, serif;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 16px;
+    line-height: 32px;
+    color: #666;
+    text-transform: uppercase;
+}
+
+.font-bold{
+    font-weight: 600;
+    color: #333;
+    text-transform: none;
+}
+
+.copyrights-area{
+    /*Área*/
+    position: absolute;
+    width: 445px;
+    height: 19px;
+    left: 262px;
+    bottom: 70px;
+
+    /*Fonte*/
+    font-family: 'Titillium Web', SansSerif, serif;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 16px;
+    line-height: 13px;
+    color: #666666;
+}
